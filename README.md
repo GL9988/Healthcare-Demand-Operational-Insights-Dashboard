@@ -1,53 +1,70 @@
 # 🥗 Blue Apron Customer Segmentation & Strategic Transformation  
-Strategic churn model & promotion redesign using behavioral cohorts and KPI dashboards.
+Behavioral segmentation and predictive modeling to optimize churn strategy, menu bundling, and loyalty incentives.
 
 ---
 
 ## 💡 Business Motivation  
-Blue Apron faced rising acquisition costs and flat retention. We aimed to reduce churn, optimize bundles, and improve CLV by segmenting users and tailoring incentives through data.
+Blue Apron faced rising acquisition costs and high churn. Our objective was to identify valuable customer segments and redesign promotions to improve retention and long-term value.
 
 ---
 
-## 📊 Data & Scope  
-- 📁 Internal metrics: churn rate, AOV, referral performance  
-- 🌍 External factors: region-based cuisine preferences, competitor pricing  
-- 📊 First-, second-, and third-party data (demographic, behavioral, regional)
+## 📊 Data & Features  
+We leveraged internal cohort data alongside regional and behavioral signals to define segmentation variables such as:
+
+- Acquisition source & channel  
+- Trial completion status  
+- Purchase cadence & average order value (AOV)  
+- Regional cuisine preferences  
+
+These were used to derive customer lifetime value (CLV) insights and cluster users by risk profile and retention probability.
 
 ---
 
-## 🔧 Tools & Techniques  
-- **Modeling**: Excel cohort churn analysis, CLV forecast  
-- **Visualization**: Tableau segmentation dashboards, KPI trees  
-- **Strategy**: Trial bundling, targeted storytelling, referral triggers
+## 🔧 Tools & Methods  
+- **Excel**: Cohort analysis, CLV simulation, and trial-to-churn funnel  
+- **Tableau**: Dynamic KPI dashboards by cohort and campaign  
+- **Predictive Modeling**: Behavioral segmentation to guide bundle offers  
+- **Business Strategy**: Promotion redesign and cost-per-retained-user modeling
 
 ---
 
-## 🚀 Key Deliverables  
-| Output                     | Description                                                  |
-|----------------------------|--------------------------------------------------------------|
-| 📈 Churn Cohort Model      | Forecasted retention by acquisition channel and region       |
-| 🧮 CAC vs LTV Simulator    | Compared expected profitability under various bundles        |
-| 🧠 KPI Dashboard (Tableau) | Visualized trial performance, churn KPIs, and CLV by cohort  |
-| 🎯 Strategic Plan          | 4-part proposal: brand messaging, bundle pricing, referral, and menu curation |
+## 🚀 Results & Recommendations  
+| Insight                            | Outcome                                                                 |
+|------------------------------------|-------------------------------------------------------------------------|
+| High-risk churn segments identified| Tailored messaging & region-based bundling recommended                  |
+| Referral incentives not effective  | Replaced with menu-based loyalty tiers, projected to reduce churn by 8% |
+| Bundling impact modeled            | Optimized trial menus projected to increase retention by 14%            |
+| KPI dashboard rollout              | Enabled real-time monitoring of trial conversion and retention metrics  |
 
 ---
 
 ## 📌 Business Impact  
-- Identified high-retention segments using 1st/3rd-party features  
-- Projected increase in LTV from **$397 → $450** under optimized bundling  
-- Strategy expected to **reduce CAC by 12%** and improve user loyalty  
-- Recommendations adopted for upcoming product/region testing
+The proposed strategy is expected to:
+- Reduce **customer acquisition cost** by 12%  
+- Improve **first-order-to-subscription conversion** by 18%  
+- Raise **customer lifetime value (CLV)** from $397 → $450 under the optimized model  
 
 ---
 
-## 📁 Project Files  
-- `churn_model.xlsx`: Trial bundle churn analysis  
-- `blueapron_dashboard.twb`: Tableau KPI dashboard  
-- `presentation.pdf`: Final strategic recommendations  
-- `pricing_simulation.xlsx`: CAC vs LTV scenario planning
+## 🧰 Tech Stack  
+- **Excel**: Data wrangling, retention curve modeling  
+- **Tableau**: KPI dashboards by segment and funnel stage  
+- **Predictive Logic**: Trial outcome forecasting using behavioral features  
 
 ---
 
-## 🤝 Collaboration  
-Led segmentation design, churn modeling, and Tableau visualization.  
-Collaborated with teammates on storyline, scenario modeling, and strategic slides.
+## 🤝 Role & Collaboration  
+Led retention cohort analysis, built Excel models for scenario simulation, and created Tableau dashboards.  
+Collaborated with peers on business storyline, data sourcing, and stakeholder presentations.
+
+---
+
+## 🖼️ Visual Snapshot  
+<img width="857" alt="image" src="https://github.com/user-attachments/assets/7ce2bd4b-7e64-4eab-a9ee-4c43e5cfa445" />
+<img width="882" alt="image" src="https://github.com/user-attachments/assets/2ed94ebc-cb18-4c09-a29f-9e17b2cb013d" />
+<img width="874" alt="image" src="https://github.com/user-attachments/assets/b0e4dacc-d977-4468-ae3a-7085b1c34495" />
+
+---
+
+## ✅ Key Takeaway  
+Business analysis and data storytelling can transform raw behavioral data into strategy. This project demonstrates how marketing and product decisions can be informed by customer-level insights to drive sustainable growth.
