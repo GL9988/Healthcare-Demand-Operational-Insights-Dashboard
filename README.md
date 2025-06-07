@@ -1,4 +1,4 @@
-# 🥗 Blue Apron Customer Segmentation & Strategic Transformation  
+# 🥗  Customer Segmentation for Meal Kit Retention
 Behavioral segmentation and predictive modeling to optimize churn strategy, menu bundling, and loyalty incentives.
 
 ---
