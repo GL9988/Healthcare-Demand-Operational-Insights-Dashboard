@@ -9,7 +9,7 @@ Blue Apron faced rising acquisition costs and high churn. Our objective was to i
 ---
 
 ## 📊 Data & Features  
-We leveraged internal cohort data alongside regional and behavioral signals to define segmentation variables such as:
+Leveraged internal cohort data alongside regional and behavioral signals to define segmentation variables such as:
 
 - Acquisition source & channel  
 - Trial completion status  
@@ -70,4 +70,4 @@ Collaborated with peers on business storyline, data sourcing, and stakeholder pr
 ---
 
 ## ✅ Key Takeaway  
-Business analysis and data storytelling can transform raw behavioral data into strategy. This project demonstrates how marketing and product decisions can be informed by customer-level insights to drive sustainable growth.
+I always believe that business analysis and data storytelling can transform raw behavioral data into strategy. This project demonstrates how marketing and product decisions can be informed by customer-level insights to drive sustainable growth.
