@@ -60,9 +60,12 @@ Collaborated with peers on business storyline, data sourcing, and stakeholder pr
 ---
 
 ## 🖼️ Visual Snapshot  
+<img width="871" alt="image" src="https://github.com/user-attachments/assets/b17ec5cf-9e0d-43d7-a43f-ca33388d806b" />
 <img width="857" alt="image" src="https://github.com/user-attachments/assets/7ce2bd4b-7e64-4eab-a9ee-4c43e5cfa445" />
 <img width="882" alt="image" src="https://github.com/user-attachments/assets/2ed94ebc-cb18-4c09-a29f-9e17b2cb013d" />
 <img width="874" alt="image" src="https://github.com/user-attachments/assets/b0e4dacc-d977-4468-ae3a-7085b1c34495" />
+
+
 
 ---
 
